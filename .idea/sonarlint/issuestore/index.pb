@@ -25,3 +25,9 @@ V
 &src/problem1080/HigherAndPosition.java,8\4\8471180b014a9e3895cf59165c12f5cf16c45464
 U
 %src/problem1079/WeightedAverages.java,5\6\56c6324b1034facb8b046cf59656820c3b7147ce
+N
+src/problem1072/Interval2.java,3\d\3d15df82a4167c6f777117056fe812b003d33fce
+J
+src/problem1075/Rest2.java,0\f\0f305b28103bd0567c3278deb553454ae358753b
+R
+"src/problem1143/SquareAndCube.java,4\3\435ae9ea446f9b94dab0e8e03bb0b3580fd69f75
