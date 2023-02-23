@@ -1,0 +1,26 @@
+
+j
+java:S1192"ODefine a constant instead of duplicating this literal "I=%.1f J=%.1f
+" 3 times.(šÂÔ‹úÿÿÿÿ
+e
+java:S1192"ODefine a constant instead of duplicating this literal "I=%.0f J=%.0f
+" 3 times.(ÒÅ“ª
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¥®çÿÿÿÿÿ
+g
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(ÒÅ“ª
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÒÅ“ª
+l
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(åûñ×şÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(åûñ×şÿÿÿÿ
+g
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(µë–
+N	java:S106"9Replace this use of System.out or System.err by a logger.(µë–
+l
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(šÂÔ‹úÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(šÂÔ‹úÿÿÿÿ
+g
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(Ğ›Š
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ğ›Š
+l
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(ÅĞòÎüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÅĞòÎüÿÿÿÿ
