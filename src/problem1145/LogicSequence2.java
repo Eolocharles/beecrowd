@@ -1,5 +1,6 @@
 package problem1145;
 
+
 import java.util.Scanner;
 
 public class LogicSequence2 {

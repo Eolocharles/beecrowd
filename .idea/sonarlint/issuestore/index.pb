@@ -53,3 +53,5 @@ P
  src/problem1097/SequenceIJ3.java,3\0\304e484cbe7334b444ae03eaf3a4a7c634d7998d
 P
  src/problem1098/SequenceIJ4.java,2\9\29fb960aeae83ba67c931affe642149435906a5f
+R
+"src/problem1144/LogicSequence.java,0\8\0874af2695e8596531d286d8560f03edfbc137db
