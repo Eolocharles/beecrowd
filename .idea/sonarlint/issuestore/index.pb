@@ -55,3 +55,15 @@ P
  src/problem1098/SequenceIJ4.java,2\9\29fb960aeae83ba67c931affe642149435906a5f
 R
 "src/problem1144/LogicSequence.java,0\8\0874af2695e8596531d286d8560f03edfbc137db
+S
+#src/problem1145/LogicSequence2.java,1\0\105cddd74bc9fdc9b54b57c6611a504789309c09
+W
+'src/problem1146/AscendingSequences.java,6\b\6b064ef07fc7a7818ff5558da428e67edf5ba8f8
+^
+.src/problem1149/AddingConsecutiveIntegers.java,5\2\5217520e04888a02c488d95d1e8ffedb1c61f6b5
+\
+,src/iniciante/problem1151/EasyFibonacci.java,a\5\a5083999215f4f68dc1e6a178422bc35de565d63
+Z
+*src/iniciante/problem1150/SurpassingZ.java,3\1\31a6f57b937084fcdb98f5defce4c1585c1945f9
+^
+.src/iniciante/problem1153/SimpleFactorial.java,8\b\8bf54884b1ec1c1d740652b61705ebba99241300
