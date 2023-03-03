@@ -9,3 +9,7 @@ S
 #src/iniciante/problem1154/Ages.java,0\3\0323972167cc9d8315a1832690a387eafb82b781
 X
 (src/iniciante/problem1155/SequenceS.java,5\5\55460f2f235b07787a5dd3a516931f839a6ea69d
+Z
+*src/iniciante/problem1156/SequenceSII.java,2\9\29b2a4ed7a6e81c9fa2afdbdfed80c37a6e8a36f
+X
+(src/iniciante/problem1157/DividersI.java,a\6\a6a4466c8b0e0a0b350ef1e355862b365ac143d7
