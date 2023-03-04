@@ -13,3 +13,9 @@ Z
 *src/iniciante/problem1156/SequenceSII.java,2\9\29b2a4ed7a6e81c9fa2afdbdfed80c37a6e8a36f
 X
 (src/iniciante/problem1157/DividersI.java,a\6\a6a4466c8b0e0a0b350ef1e355862b365ac143d7
+d
+4src/iniciante/problem1159/SumOfConsecutivePairs.java,d\4\d45310358572e076719e24b955d03b219c135ac0
+f
+6src/iniciante/problem1158/SumOfConsecutiveOddsIII.java,d\b\db2daa56ddc622c6acb08171b303aec173e6c457
+_
+/src/iniciante/problem1160/PopulationGrowth.java,4\8\48929350b249b46a9d7e556f0e1624484d8dd97e

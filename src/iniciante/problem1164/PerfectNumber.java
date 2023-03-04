@@ -1,0 +1,27 @@
+package iniciante.problem1164;
+
+import java.util.Scanner;
+
+public class PerfectNumber {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int n = sc.nextInt();
+        int x;
+        int sum;
+        for(int i = 0; i < n; i++){
+            sum = 0;
+            x = sc.nextInt();
+            for(int j = 1; j < x; j++){
+                if (x % j == 0){
+                sum += j;
+                }
+            }
+            if(sum == x){
+                System.out.println(x+" eh perfeito");
+            }else {
+                System.out.println(x+" nao eh perfeito");
+            }
+        }
+        sc.close();
+    }
+}
