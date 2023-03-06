@@ -1,21 +1,3 @@
 
-\
-,src/iniciante/problem1151/EasyFibonacci.java,a\5\a5083999215f4f68dc1e6a178422bc35de565d63
 Z
 *src/iniciante/problem1150/SurpassingZ.java,3\1\31a6f57b937084fcdb98f5defce4c1585c1945f9
-^
-.src/iniciante/problem1153/SimpleFactorial.java,8\b\8bf54884b1ec1c1d740652b61705ebba99241300
-S
-#src/iniciante/problem1154/Ages.java,0\3\0323972167cc9d8315a1832690a387eafb82b781
-X
-(src/iniciante/problem1155/SequenceS.java,5\5\55460f2f235b07787a5dd3a516931f839a6ea69d
-Z
-*src/iniciante/problem1156/SequenceSII.java,2\9\29b2a4ed7a6e81c9fa2afdbdfed80c37a6e8a36f
-X
-(src/iniciante/problem1157/DividersI.java,a\6\a6a4466c8b0e0a0b350ef1e355862b365ac143d7
-d
-4src/iniciante/problem1159/SumOfConsecutivePairs.java,d\4\d45310358572e076719e24b955d03b219c135ac0
-f
-6src/iniciante/problem1158/SumOfConsecutiveOddsIII.java,d\b\db2daa56ddc622c6acb08171b303aec173e6c457
-_
-/src/iniciante/problem1160/PopulationGrowth.java,4\8\48929350b249b46a9d7e556f0e1624484d8dd97e
