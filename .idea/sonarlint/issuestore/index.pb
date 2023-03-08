@@ -27,3 +27,9 @@ S
 .src/iniciante/problem1153/SimpleFactorial.java,8\b\8bf54884b1ec1c1d740652b61705ebba99241300
 \
 ,src/iniciante/problem1151/EasyFibonacci.java,a\5\a5083999215f4f68dc1e6a178422bc35de565d63
+`
+0src/iniciante/problem1176/FibonacciInVector.java,b\a\ba6b120e83cbbd67bbae0b7544567427c63fc79f
+S
+#.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
+]
+-.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
