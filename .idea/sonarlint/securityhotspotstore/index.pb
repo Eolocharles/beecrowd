@@ -33,3 +33,13 @@ S
 -.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
 [
 +src/iniciante/problem1177/VectorFillII.java,9\8\98fe4ab510a1859d3598d5146e2317b785b05030
+[
++src/iniciante/problem1179/VectorFillIV.java,f\d\fdaf6242f228d27ff5a3f73e8a08d053121cb578
+\
+,src/iniciante/problem1178/VectorFillIII.java,8\6\867d41c907ef5c784b5b371fa36f663cc2d4a6a0
+_
+/src/iniciante/problem1180/MinorAndPosition.java,6\1\61bcaa2c2949276554a9d9721f71155f505f4df8
+[
++src/iniciante/problem1181/LineInMatrix.java,3\5\3522fa5213db8004cad4e557c3f6a265de57fc6f
+\
+,src/iniciante/problem1182/ColumInMatrix.java,f\2\f27797977f70b2b68dc4fa94e5a07f6f792c1c30
