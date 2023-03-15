@@ -41,3 +41,5 @@ _
 /src/iniciante/problem1180/MinorAndPosition.java,6\1\61bcaa2c2949276554a9d9721f71155f505f4df8
 [
 +src/iniciante/problem1181/LineInMatrix.java,3\5\3522fa5213db8004cad4e557c3f6a265de57fc6f
+\
+,src/iniciante/problem1182/ColumInMatrix.java,f\2\f27797977f70b2b68dc4fa94e5a07f6f792c1c30
