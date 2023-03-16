@@ -43,3 +43,11 @@ _
 +src/iniciante/problem1181/LineInMatrix.java,3\5\3522fa5213db8004cad4e557c3f6a265de57fc6f
 \
 ,src/iniciante/problem1182/ColumInMatrix.java,f\2\f27797977f70b2b68dc4fa94e5a07f6f792c1c30
+c
+3src/iniciante/problem1184/BelowTheMainDiagonal.java,7\2\720bc40e1ea5c04de75ce0293f5ae87c67879915
+c
+3src/iniciante/problem1183/AboveTheMainDiagonal.java,9\c\9c7a7893aeb936502218ebd36080c0923615c6b2
+e
+5src/iniciante/problem1185/AboveSecondaryDiagonal.java,d\4\d46adcf818e99a37aae2cbdd6ff8d49e37ada384
+e
+5src/iniciante/problem1186/BelowSecondaryDiagonal.java,4\c\4c93e53b29d6acb35dba822d00a01cd945837743
