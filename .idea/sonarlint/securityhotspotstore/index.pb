@@ -51,3 +51,17 @@ e
 5src/iniciante/problem1185/AboveSecondaryDiagonal.java,d\4\d46adcf818e99a37aae2cbdd6ff8d49e37ada384
 e
 5src/iniciante/problem1186/BelowSecondaryDiagonal.java,4\c\4c93e53b29d6acb35dba822d00a01cd945837743
+X
+(src/iniciante/problem1187/UpperArea.java,e\1\e13417fd313106b70606658ca37aa803f19f284d
+W
+'src/iniciante/problem1189/LeftArea.java,1\2\125e156d0658a6006ad62dba3b570a12ff6e1642
+X
+(src/iniciante/problem1190/RightArea.java,6\c\6c61153663605ec3d4663e1304f01acf5f476b8d
+\
+,src/iniciante/problem1435/SquareMatrixI.java,c\5\c5cfbc3322ee333372b3add2eb724eef43ef5c8f
+X
+(src/iniciante/problem1188/LowerArea.java,2\6\265ea37791379d7d69d91812d66e2320c51b478f
+]
+-src/iniciante/problem1478/SquareMatrixII.java,c\f\cf788d0d85a7deccc11c57e92c617164b8267e47
+X
+(src/iniciante/problem1534/Matrix123.java,d\c\dca0676c13b83fcb527b7f924c6b8c455aa38b08
