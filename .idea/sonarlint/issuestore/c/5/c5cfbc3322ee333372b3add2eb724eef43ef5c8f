@@ -1,10 +1,0 @@
-
-o
-java:S3776"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(Çµí‘8ìÒ¢€ð0
-S
-java:S1994"6Move the update of "n" into this loop's update clause.(™³¢Ä8ìÒ¢€ð0
-U	java:S106"9Replace this use of System.out or System.err by a logger.(Žà„ó8ìÒ¢€ð0
-U	java:S106"9Replace this use of System.out or System.err by a logger.(Žà„ó8ìÒ¢€ð0
-U	java:S106"9Replace this use of System.out or System.err by a logger.(×•œ²8ìÒ¢€ð0
-Z	java:S106!"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ8ìÒ¢€ð0
-Z	java:S106#"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ8ìÒ¢€ð0
