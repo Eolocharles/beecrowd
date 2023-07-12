@@ -59,3 +59,13 @@ X
 (src/iniciante/problem1188/LowerArea.java,2\6\265ea37791379d7d69d91812d66e2320c51b478f
 ]
 -src/iniciante/problem1541/BuildingHouses.java,6\9\69ded59ba77f1db3fe12fc90d2528d55d9d2dc65
+\
+,src/iniciante/problem1435/SquareMatrixI.java,c\5\c5cfbc3322ee333372b3add2eb724eef43ef5c8f
+]
+-src/iniciante/problem1478/SquareMatrixII.java,c\f\cf788d0d85a7deccc11c57e92c617164b8267e47
+X
+(src/iniciante/problem1534/Matrix123.java,d\c\dca0676c13b83fcb527b7f924c6b8c455aa38b08
+X
+(src/iniciante/problem1190/RightArea.java,6\c\6c61153663605ec3d4663e1304f01acf5f476b8d
+^
+.src/iniciante/problem1557/SquareMatrixIII.java,4\1\4176d9f85c4eceb16fb4017d9e8e7ba9d583b7a7
