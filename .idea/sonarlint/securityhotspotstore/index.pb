@@ -67,5 +67,17 @@ X
 (src/iniciante/problem1534/Matrix123.java,d\c\dca0676c13b83fcb527b7f924c6b8c455aa38b08
 X
 (src/iniciante/problem1190/RightArea.java,6\c\6c61153663605ec3d4663e1304f01acf5f476b8d
+U
+%src/iniciante/problem1759/HoHoHo.java,c\d\cdeff99d6b6104ffcd779d6f438329b33a9442a6
+Y
+)src/iniciante/problem1589/BobConduit.java,6\0\603a48c96cb542c99431cc502dc51832ed3d022a
+]
+-src/iniciante/problem1564/ThereWillBeCup.java,c\b\cb4eb6e6bc8cfc3e8d8ee6cef8716153c5c0f844
+W
+'src/iniciante/problem1789/SlugRace.java,8\b\8b67c063f3f3a7a4079e519d52fd908203dcf9c0
 ^
 .src/iniciante/problem1557/SquareMatrixIII.java,4\1\4176d9f85c4eceb16fb4017d9e8e7ba9d583b7a7
+\
+,src/iniciante/problem1827/SquareMatrix4.java,3\c\3c6511291ba15950a8754195f8139acc9dca1322
+9
+	gitignore,6\f\6f819b366cb83f2e62d7b8b23b65c2e28c01306a
