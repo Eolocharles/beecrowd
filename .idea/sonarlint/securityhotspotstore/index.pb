@@ -81,3 +81,7 @@ W
 ,src/iniciante/problem1827/SquareMatrix4.java,3\c\3c6511291ba15950a8754195f8139acc9dca1322
 9
 	gitignore,6\f\6f819b366cb83f2e62d7b8b23b65c2e28c01306a
+V
+&src/iniciante/problem1828/Bazinga.java,c\0\c03343f01d333db462306b7ae63e2a42b4f691bf
+W
+'src/iniciante/problem1837/Prefacio.java,3\a\3a0cd9d3e93738ae05a6d0524c7ac4aca0685448
